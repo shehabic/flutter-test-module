@@ -1,0 +1,6 @@
+module dhplugin {
+  umbrella header "dhplugin-umbrella.h"
+
+  export *
+  module * { export * }
+}
